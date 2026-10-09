@@ -59,3 +59,22 @@ This project analyzes retail sales data using SQL Server. The goal is to underst
 ## Conclusion
 
 This project helped me practice SQL by analyzing retail sales data and calculating business KPIs. It demonstrates how SQL can be used to answer business questions and identify useful sales trends.
+
+## Results Screenshots
+
+The screenshots below highlight the main outputs of the SQL analysis.
+
+### Key Performance Indicators (KPIs)
+![SQL KPI results](Images/KPI-SH.png)
+
+### Revenue by Category
+![Revenue by category](Images/Revenue%20By%20Category-SH.png)
+
+### Top 5 Products by Units Sold
+![Top 5 products by units sold](Images/Top%205%20products%20by%20units%20sold-SH.png)
+
+### Top Customers by Revenue
+![Top customers by revenue](Images/Top%20customers-SH.png)
+
+### Total Revenue
+![Total revenue result](Images/Total%20revenue-SH.png)
