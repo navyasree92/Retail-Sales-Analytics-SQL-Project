@@ -27,4 +27,4 @@ This project analyzes retail sales data using SQL to identify sales trends, cust
 
 ## Project Status
 
-Database creation and data loading completed. SQL analysis queries will be documented as the project progresses.
+Database creation, data loading, SQL analysis queries, and KPI calculations have been completed. The project includes sales, product, customer, order-status, and key performance indicator (KPI) analysis.
