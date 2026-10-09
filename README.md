@@ -56,6 +56,14 @@ This project analyzes retail sales data using SQL Server. The goal is to underst
 * LAG() window function
 * Month-over-month revenue growth
 
+## Project Highlights
+
+* Created a retail sales database with four related tables: Customers, Products, Orders, and Order_Details.
+* Wrote SQL queries to analyze 40 orders, product sales, customer revenue, and order statuses.
+* Calculated key business metrics, including total revenue, average order value, and cancellation rate.
+* Used joins, aggregate functions, a CTE, and the `LAG()` window function to explore sales trends and month-over-month revenue growth.
+* Summarized the results with business findings and screenshots to make the analysis easy to review.
+
 ## Conclusion
 
 This project helped me practice SQL by analyzing retail sales data and calculating business KPIs. It demonstrates how SQL can be used to answer business questions and identify useful sales trends.
